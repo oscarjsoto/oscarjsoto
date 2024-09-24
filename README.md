@@ -26,3 +26,5 @@ You can view these and more [here](https://oscarjsoto.com/projects)
 ## Connect with Me 📬
 - 📫 [Email](mailto:oscar@oscarjsoto.com)
 - 🔗 [LinkedIn](https://linkedin.com/in/oscarjsoto)
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍
